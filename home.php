@@ -1,5 +1,5 @@
 <?php
-//all users including memebers, moderators, admin can see this page
+
 session_start();
 ?>
 
