@@ -3,7 +3,7 @@
 //Define the database
 //access the database with username and password
 DEFINE('DB_USER', 'root');
-DEFINE('DB_PASSWORD', 'test123');
+DEFINE('DB_PASSWORD', 'ur_password');
 
 DEFINE('DB_HOST', 'localhost');
 
